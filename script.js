@@ -1,1 +1,0 @@
-document.write('Hello, I am from a new file!');
